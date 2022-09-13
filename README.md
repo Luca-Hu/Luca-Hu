@@ -1,5 +1,5 @@
 👋 Hi, I’m Yi Hu. You can call me Lucas. 
-- I am an overseas student from China. Now I am studying for a Master's degree in computer engineering 
+- I am an international student from China. Now I am studying for a Master's degree in computer engineering 
 at Southern Methodist University in Dallas.
 
 - 👀 I am interested in full-stack Web development and am trying to find work in this field. 
