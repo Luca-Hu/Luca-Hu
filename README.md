@@ -10,6 +10,6 @@ at Southern Methodist University in Dallas.
 
 - If you have any questions or advices, please let me know.
 
-  My Linken Account： www.linkedin.com/in/yi-hu-58852321a
+  My Linken Account： < https://linkedin.com/in/yihu-tech >
 
   My Email： yihu@smu.edu 
